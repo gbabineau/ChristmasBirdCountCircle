@@ -10,8 +10,8 @@ For example
 
 Location: Charlottesville
 Abbrev: VACA
-Compiler: Jennifer Gaden
-Email: jengaden@gmail.com
+Compiler: Xxxxx Xxxxx
+Email: xxxx@xmail.com
 Location: (-78.57, 38.07)
 Count Date: 12/16/2018
 ```
