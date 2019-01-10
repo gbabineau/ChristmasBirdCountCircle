@@ -33,7 +33,7 @@ Import the layers you need
 mymaps lets you create lines that follow roads as driving routes which is really useful but you can't do much with them when done if they are not for driving. For example
 our circle has "sectors" that are road boundaries. But this can work.
 
-Add a layer as a driving route for all the lines that have to follow a road. Because googlemaps makes these blue, you will have to save each layer as a separate KML file and then use a text editor to pull them all into the same KML file (copy each linestring generated into the same file). You will also have to make all the styles the same if needed
+Add a layer as a driving route for all the lines that have to follow a road. Because googlemaps makes these blue and limits the number of layers, you will have to save each layer as a separate KML file and then use a text editor to pull them all into the same KML file (copy each linestring generated into the same file). You will also have to make all the styles the same if needed
 
 ## Example results
 https://drive.google.com/open?id=1uGY-H8ou61bT7pTo05MZhQ6v0NAl1FOr&usp=sharing
